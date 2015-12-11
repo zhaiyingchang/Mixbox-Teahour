@@ -22,16 +22,13 @@
 - Git-flow 使用笔记: http://fann.im/blog/2012/03/12/git-flow-notes/ 
 
 **欧北辰部分**
-
-- Pro Git（中文版）: http://git.oschina.net/progit/
-- Peter的git课程视频：http://haoduoshipin.com/tag/git
-- Vincent Driessen's branching model: http://nvie.com/posts/a-successful-git-branching-model/ 
-- git-flow介绍(翟伟明翻译)：https://github.com/wmzhai/advanced-git-topic/blob/master/branching-model.md
-- git-flow备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
-- git-flow的github: https://github.com/nvie/gitflow
-- Gitflow Workflow | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/comparing-workflows
-- Git-flow 使用笔记: http://fann.im/blog/2012/03/12/git-flow-notes/ 
-
+ 
+- [Xposed Framework 项目首页](http://repo.xposed.info/)
+- [Android 4.4 以及之前版本安装方法(root + apk)](http://repo.xposed.info/module/de.robv.android.xposed.installer)
+- [Android 5.0 以及之后安装方法(刷机)](http://forum.xda-developers.com/showthread.php?t=3034811)
+- [开发入门](https://github.com/rovo89/XposedBridge/wiki/Development-tutorial)
+- [讨论论坛](http://forum.xda-developers.com/xposed)
+- [分享会资料](https://github.com/oubeichen/MixBoxShare)
 
 ## 官人，来嘛~
 
