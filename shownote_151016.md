@@ -2,12 +2,19 @@
 
 >> 在通往牛逼的道路上一路狂奔! 
 
-## 每周分享日程
+## 本周分享日程
 
-- 时间：周五 16:30
+- 时间：周五 16:30（10月16日）
 - 地点：立方庭1-126
-- 演讲者：米博2人；嘉宾1人。(每位speaker有15分钟的分享时间)
-- 内容要求：内容随意，品味无底线，有牛逼闪闪的气质就好：要么有用，要么好玩。（有用且好玩，赞！）
+- 演讲者及分享内容：
+  1）李洁信（react-native 技术分享）
+  2) 姜维 （IM后台技术架构分享）
+
+## Show Note
+
+- react-native 官网： http://facebook.github.io/react-native/
+- react-native github： https://github.com/facebook/react-native
+- TODO: other shownotes
 
 ## 官人，来嘛~
 
@@ -19,8 +26,5 @@
 - 主动学习与被动学习模型
 
 ![主动学习与被动学习模型](http://7xid0k.com1.z0.glb.clouddn.com/Clipboard Image.png)
-
-
-
 
 
