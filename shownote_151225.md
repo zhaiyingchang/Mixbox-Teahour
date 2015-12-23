@@ -4,13 +4,13 @@
 
 ## 本周分享日程
 
-- 时间：周五 16:30（12月11日）
+- 时间：周五 16:30（12月25日）
 - 地点：立方庭1-126
-- 演讲者及分享内容：1）李洁信（swift中的协议编程）；2）欧北辰（xposed框架分享）
+- 演讲者及分享内容：1）向娟（swift中的协议编程）；2）雷能慧（xposed框架分享）
 
 ## Show Note
 
-**李洁信部分**
+**向娟部分**
 
 - Pro Git（中文版）: http://git.oschina.net/progit/
 - Peter的git课程视频：http://haoduoshipin.com/tag/git
@@ -21,7 +21,7 @@
 - Gitflow Workflow | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/comparing-workflows
 - Git-flow 使用笔记: http://fann.im/blog/2012/03/12/git-flow-notes/ 
 
-**欧北辰部分**
+**雷能慧部分**
  
 - [Xposed Framework 项目首页](http://repo.xposed.info/)
 - [Android 4.4 以及之前版本安装方法(root + apk)](http://repo.xposed.info/module/de.robv.android.xposed.installer)
