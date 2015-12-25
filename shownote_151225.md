@@ -6,29 +6,22 @@
 
 - 时间：周五 16:30（12月25日）
 - 地点：立方庭1-126
-- 演讲者及分享内容：1）向娟（swift中的协议编程）；2）雷能慧（xposed框架分享）
+- 演讲者及分享内容：1）向娟（玩转sketch）；2）雷能慧（如何读懂英文名著）
 
 ## Show Note
 
 **向娟部分**
 
-- Pro Git（中文版）: http://git.oschina.net/progit/
-- Peter的git课程视频：http://haoduoshipin.com/tag/git
-- Vincent Driessen's branching model: http://nvie.com/posts/a-successful-git-branching-model/ 
-- git-flow介绍(翟伟明翻译)：https://github.com/wmzhai/advanced-git-topic/blob/master/branching-model.md
-- git-flow备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
-- git-flow的github: https://github.com/nvie/gitflow
-- Gitflow Workflow | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/comparing-workflows
-- Git-flow 使用笔记: http://fann.im/blog/2012/03/12/git-flow-notes/ 
+- Sketch官网的软件介绍: https://www.sketchapp.com/features/
+- 视频教程(用户最喜欢的一些功能)：https://www.sketchapp.com/learn/
+- Sketch中文网: http://www.sketchcn.com/
+- Sketch Toolbox下载地址: http://www.sketchcn.com/sketch-tips-tricks-1.html
 
 **雷能慧部分**
  
-- [Xposed Framework 项目首页](http://repo.xposed.info/)
-- [Android 4.4 以及之前版本安装方法(root + apk)](http://repo.xposed.info/module/de.robv.android.xposed.installer)
-- [Android 5.0 以及之后安装方法(刷机)](http://forum.xda-developers.com/showthread.php?t=3034811)
-- [开发入门](https://github.com/rovo89/XposedBridge/wiki/Development-tutorial)
-- [讨论论坛](http://forum.xda-developers.com/xposed)
-- [分享会资料](https://github.com/oubeichen/MixBoxShare)
+- English literature appreciation
+- Jane Austin‘s life and masterpieces introduction
+- movies episode pictures and comments
 
 ## 官人，来嘛~
 
